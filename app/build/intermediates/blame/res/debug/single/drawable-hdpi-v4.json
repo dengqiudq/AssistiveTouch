@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background_holo_light.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/background_holo_light.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sysbar_search_1.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_sysbar_search_1.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_add_btn_pressed.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/item_add_btn_pressed.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_send.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_menu_send.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/focused_application_background.9.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/focused_application_background.9.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher_pressed.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_launcher_pressed.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sysbar_setting_1.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_sysbar_setting_1.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_archive.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_menu_archive.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/transparent.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/transparent.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_more_32.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_menu_more_32.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_input_add.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_input_add.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_btn_search.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_btn_search.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/start_service.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/start_service.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sysbar_back_1.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_sysbar_back_1.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_media_play.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_media_play.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sysbar_menu_1.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_sysbar_menu_1.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sysbar_back.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_sysbar_back.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background_main.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/background_main.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sysbar_setting.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_sysbar_setting.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sysbar_recent.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_sysbar_recent.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_lock_power_off.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_lock_power_off.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_stop.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_menu_stop.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sysbar_home.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_sysbar_home.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_add_btn_nor.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/item_add_btn_nor.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_save.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_menu_save.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_lock_power_off_1.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_lock_power_off_1.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_search_category_default.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_search_category_default.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_close_clear_cancel_32.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_menu_close_clear_cancel_32.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background_other.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/background_other.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_media_pause.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_media_pause.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_less_32.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_menu_less_32.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/action_bar.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/action_bar.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sysbar_menu.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_sysbar_menu.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dot_set.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/dot_set.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sysbar_search.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_sysbar_search.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_home.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_home.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sysbar_home_1.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_sysbar_home_1.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_title_icon.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/setting_title_icon.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sysbar_recent_1.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_sysbar_recent_1.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_pop_pressed.9.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/bg_pop_pressed.9.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_sort_by_size.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_menu_sort_by_size.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/record_badge_smaller.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/record_badge_smaller.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_play_clip.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_menu_play_clip.png"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_record.png",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/drawable-hdpi/ic_menu_record.png"
+    }
+]

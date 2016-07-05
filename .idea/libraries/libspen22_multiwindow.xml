@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libspen22_multiwindow">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/libspen22_multiwindow.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

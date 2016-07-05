@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/key_grid_item.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/key_grid_item.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/new_filter_text_view.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/new_filter_text_view.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/pick_up_item.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/pick_up_item.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/simple_dropdown_small.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/simple_dropdown_small.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/filter_query_for_recording.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/filter_query_for_recording.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/spinner_dropdown_filename.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/spinner_dropdown_filename.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/touch_dot_view.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/touch_dot_view.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/filter_with_delete.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/filter_with_delete.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/chooser_row.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/chooser_row.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/filter_with_add.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/filter_with_add.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/activity_pick_up_app.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/activity_pick_up_app.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/intro_dialog.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/intro_dialog.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/spinner_drop_view.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/spinner_drop_view.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/activity_pick_up_key.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/activity_pick_up_key.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/spinner_dropdown_tag_pid.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/spinner_dropdown_tag_pid.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/checkbox_item_layout.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/checkbox_item_layout.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/include_device_info.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/include_device_info.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/checkbox_dropdown_filename.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/checkbox_dropdown_filename.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/activity_settings_touch_panel.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/activity_settings_touch_panel.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/activity_settings_touch_dot.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/activity_settings_touch_dot.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/touch_panel_view.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/touch_panel_view.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/layout/logcat_list_item.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/layout/logcat_list_item.xml"
+    }
+]

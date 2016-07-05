@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/menu/main_menu.xml"
+    }
+]

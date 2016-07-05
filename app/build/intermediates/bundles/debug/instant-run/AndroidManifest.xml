@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.leon.assistivetouch.main"
+    android:versionCode="7"
+    android:versionName="1.2.0" >
+
+    <uses-sdk
+        android:maxSdkVersion="23"
+        android:minSdkVersion="17"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <user-permission android:name="android.permission.DEVICE_POWER" />
+
+    <uses-permission android:name="android.permission.ACCESS_SUPERUSER" />
+
+    <application
+        name="com.leon.assistivetouch.main.AssistiveTouchApplication"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.leon.assistivetouch.main.MainActivity"
+            android:label="@string/title_activity_main"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.leon.assistivetouch.main.SettingsTouchDotActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.leon.assistivetouch.main.SettingsTouchPanelActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity android:name="com.leon.assistivetouch.main.PickUpAppActivity" />
+        <activity android:name="com.leon.assistivetouch.main.PickUpKeyActivity" />
+        <activity android:name="com.leon.assistivetouch.main.AuxiliaryActivity" />
+
+        <service
+            android:name="com.leon.assistivetouch.main.AssistiveTouchService"
+            android:exported="false"
+            android:label="@string/service_name" >
+            <intent-filter android:priority="1000" >
+                <action android:name="com.leon.assistivetouch.assistive_start_action" />
+            </intent-filter>
+            <intent-filter android:priority="1000" >
+                <action android:name="com.leon.assistivetouch.assistive_stop_action" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.leon.assistivetouch.assistive_notify_action" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="com.leon.assistivetouch.main.CheckUpdateReceiver" />
+        <receiver android:name="com.leon.assistivetouch.main.BootReceiver" >
+            <intent-filter android:priority="1000" >
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+            <intent-filter android:priority="1000" >
+                <action android:name="android.intent.action.PACKAGE_RESTARTED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.leon.assistivetouch.main.ui.LockReceiver"
+            android:description="@string/app_name"
+            android:label="@string/app_name"
+            android:permission="android.permission.BIND_DEVICE_ADMIN" >
+            <meta-data
+                android:name="android.app.device_admin"
+                android:resource="@xml/test" />
+
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

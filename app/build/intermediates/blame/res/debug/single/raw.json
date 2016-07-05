@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/raw/donate_message.htm",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/raw/donate_message.htm"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/raw/about_body.htm",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/raw/about_body.htm"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/raw/changelog.htm",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/raw/changelog.htm"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/raw/translations.htm",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/raw/translations.htm"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/raw/about_css.css",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/raw/about_css.css"
+    },
+    {
+        "merged": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/build/intermediates/res/merged/debug/raw/free_message.htm",
+        "source": "/D/Android-app-yuanma/AssistiveTouchSumsungHover-master/app/src/main/res/raw/free_message.htm"
+    }
+]
